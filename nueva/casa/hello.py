@@ -1,2 +1,2 @@
-/home/luis/Documentos/Pruebas/main.c
+/home/luis/Documentos/Pruebas/prueba.js
 
